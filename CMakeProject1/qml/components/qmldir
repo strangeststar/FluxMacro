@@ -1,0 +1,10 @@
+module FluxMacro.components
+NavButton    1.0 NavButton.qml
+GlassCard    1.0 GlassCard.qml
+AnimButton   1.0 AnimButton.qml
+HotkeyPicker 1.0 HotkeyPicker.qml
+ToggleSwitch 1.0 ToggleSwitch.qml
+ModernSlider 1.0 ModernSlider.qml
+SectionLabel 1.0 SectionLabel.qml
+StatusPill   1.0 StatusPill.qml
+TitleBar     1.0 TitleBar.qml

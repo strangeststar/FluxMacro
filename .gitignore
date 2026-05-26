@@ -1,0 +1,12 @@
+# Visual Studio specific files
+.vs/
+
+# Build and Output directories
+installer_out/
+installer_stage/
+out/
+build_out
+
+# Credentials and certificates (CRITICAL to ignore)
+FluxMacro_codesign
+sign_app

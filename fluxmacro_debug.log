@@ -1,0 +1,2 @@
+WRN: qrc:/qml/AutoClickerPage.qml:120: TypeError: Property 'setCPS' of object AutoClicker(0x4f370fea48) is not a function
+WRN: qrc:/qml/AutoClickerPage.qml:10: TypeError: Property 'setClickType' of object AutoClicker(0x4f370fea48) is not a function

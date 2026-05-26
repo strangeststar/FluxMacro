@@ -1,0 +1,14 @@
+[1/13] Copying FluxMacro qml sources into build dir
+[2/13] Running qmlimportscanner for FluxMacro
+[3/13] Generating .rcc/qmlcache/FluxMacro_qml/components/AnimButton_qml.cpp, .rcc/qmlcache/FluxMacro_qml/components/AnimButton_qml.cpp.aotstats
+[4/13] Running rcc for resource FluxMacro_raw_qml_0
+[5/13] Generating .rcc/qmlcache/FluxMacro_qml/SettingsPage_qml.cpp, .rcc/qmlcache/FluxMacro_qml/SettingsPage_qml.cpp.aotstats
+[6/13] Generating .rcc/qmlcache/FluxMacro_qml/main_qml.cpp, .rcc/qmlcache/FluxMacro_qml/main_qml.cpp.aotstats
+[7/13] Generating .rcc/qmlcache/FluxMacro_qml/MacroPage_qml.cpp, .rcc/qmlcache/FluxMacro_qml/MacroPage_qml.cpp.aotstats
+[8/13] Building CXX object CMakeProject1\CMakeFiles\FluxMacro.dir\.rcc\qmlcache\FluxMacro_qml\components\AnimButton_qml.cpp.obj
+[9/13] Building CXX object CMakeProject1\CMakeFiles\FluxMacro.dir\.rcc\qmlcache\FluxMacro_qml\SettingsPage_qml.cpp.obj
+[10/13] Building CXX object CMakeProject1\CMakeFiles\FluxMacro.dir\.qt\rcc\qrc_FluxMacro_raw_qml_0.cpp.obj
+[11/13] Building CXX object CMakeProject1\CMakeFiles\FluxMacro.dir\.rcc\qmlcache\FluxMacro_qml\MacroPage_qml.cpp.obj
+[12/13] Building CXX object CMakeProject1\CMakeFiles\FluxMacro.dir\.rcc\qmlcache\FluxMacro_qml\main_qml.cpp.obj
+[13/13] Linking CXX executable CMakeProject1\FluxMacro.exe
+BUILD_EXIT=0
